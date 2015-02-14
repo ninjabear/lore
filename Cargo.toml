@@ -3,3 +3,7 @@
 name = "lore"
 version = "0.0.1"
 authors = ["ninjabear"]
+
+[dependencies.nickel]
+
+git = "https://github.com/nickel-org/nickel.rs.git"
